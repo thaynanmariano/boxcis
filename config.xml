@@ -74,6 +74,6 @@
 	<allow-intent href="*" />
 	<access origin="*" /> <!-- Required for iOS9 -->
 
-    <content src="http://www.boxcis.com" />
+    <content src="index.html" />
     <access origin="*" subdomains="true" />
 </widget>
