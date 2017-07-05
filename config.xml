@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.legalhunter.app" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.legalhunter.app" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>LegalHunter</name>
+    <name>Boxcis</name>
     <description>Descrição.</description>
     <author email="thaynan@ideialabs.com.br" href="http://www.ideialabs.com.br">Thaynan Mariano</author>
 
@@ -73,6 +73,6 @@
 	<allow-intent href="*" />
 	<access origin="*" /> <!-- Required for iOS9 -->
 
-    <content src="http://www.legalhunter.com.br/index.php" />
+    <content src="http://www.boxcis.com" />
     <access origin="*" subdomains="true" />
 </widget>
