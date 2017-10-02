@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.boxcis.app" version="1.6" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="br.com.boxcis.app" version="1.7" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Boxcis</name>
     <description>Descrição.</description>
@@ -30,7 +30,7 @@
     -->
     
     <plugin name="cordova-plugin-device" source="npm" />
-    <plugin name="cordova-plugin-camera" source="npm" />
+    <!-- TMC <plugin name="cordova-plugin-camera" source="npm" />-->
     <plugin name="cordova-plugin-media" source="npm" />
     <plugin name="cordova-plugin-file" source="npm" />
     <plugin name="cordova-plugin-file-transfer" source="npm" />
